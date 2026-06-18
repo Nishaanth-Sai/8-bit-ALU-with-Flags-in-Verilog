@@ -1,1 +1,13 @@
+# Simulation output files
+*.vcd
+*.vvp
+*.out
+
+# macOS files
 .DS_Store
+
+# VS Code settings (optional)
+.vscode/
+
+# Logs
+*.log
